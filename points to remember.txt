@@ -9,3 +9,4 @@ procedures:
 3.internal demo with stake holder
 4.get UAT sign off from client.
 5.sample testing
+6. testing the branch functionlity.
