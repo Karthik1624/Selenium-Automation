@@ -1,0 +1,10 @@
+Design test case
+1.check what are all the way the record can be created.
+2.
+
+
+procedures:
+1. requirement confirmation from stakeholder 
+2.test case review from client
+3.internal demo with stake holder
+4.get UAT sign off from client.
