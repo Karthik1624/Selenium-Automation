@@ -8,3 +8,4 @@ procedures:
 2.test case review from client
 3.internal demo with stake holder
 4.get UAT sign off from client.
+5.sample testing
